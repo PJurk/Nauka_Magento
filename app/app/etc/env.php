@@ -7,7 +7,7 @@ return [
         'consumers_wait_for_messages' => 1
     ],
     'crypt' => [
-        'key' => '6e4f9510b0158bc3af34bc9fa93acf2d'
+        'key' => '3214326d67bf9cbfc768e8b167498a03'
     ],
     'db' => [
         'table_prefix' => '',
@@ -75,6 +75,6 @@ return [
         'magento.test.com'
     ],
     'install' => [
-        'date' => 'Thu, 20 Aug 2020 09:02:41 +0000'
+        'date' => 'Fri, 28 Aug 2020 09:24:49 +0000'
     ]
 ];
