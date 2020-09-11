@@ -5,6 +5,8 @@ services:
     container_name: my-magento
     image: pjurk/magento2-app
     tty: true
+    environment: 
+      XDEBUG_CONFIG: "remote_host=172.27.102.218" #hostname -I address
     ports:
       - "80:80"
     links:
