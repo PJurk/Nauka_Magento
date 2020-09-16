@@ -21,8 +21,8 @@ class Test implements HttpGetActionInterface
 
     public function __construct(PageFactory $pageFactory, RequestInterface $request)
     {
-        $this->pageFactory = $pageFactory;
-        $this->request = $request;
+        $this->pageFactory  = $pageFactory;
+        $this->request      = $request;
     }
 
     public function execute()
