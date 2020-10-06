@@ -6,7 +6,7 @@ use \Magento\Framework\App\RequestInterface;
 use \Magento\Framework\View\Result\Page;
 use \Magento\Framework\View\Result\PageFactory;
 
-class Test implements HttpGetActionInterface
+class Index implements HttpGetActionInterface
 {
 
     /**
