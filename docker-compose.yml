@@ -6,7 +6,7 @@ services:
     image: pjurk/magento2-app
     tty: true
     environment: 
-      XDEBUG_CONFIG: "remote_host=172.20.240.161" #hostname -I address
+      XDEBUG_CONFIG: "remote_host=host.docker.internal" #hostname -I address
     ports:
       - "80:80"
     links:
@@ -18,7 +18,7 @@ services:
     - ./app:/var/www/html
     #- magento-tests:/app/dev/tests/acceptance/tests/_output/allure-results
     env_file:
-      - env
+      - env 
   db:
     image: mysql:8.0.21
     volumes:

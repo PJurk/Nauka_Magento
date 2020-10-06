@@ -1,5 +1,5 @@
 <?php
-namespace PJurk\HelloPost\Model;
+namespace Pjurk\HelloPost\Model;
 
 class Post extends \Magento\Framework\Model\AbstractModel implements \Magento\Framework\DataObject\IdentityInterface
 {
@@ -11,7 +11,7 @@ class Post extends \Magento\Framework\Model\AbstractModel implements \Magento\Fr
 
 	protected function _construct()
 	{
-		$this->_init('PJurk\HelloPost\Model\ResourceModel\Post');
+		$this->_init('Pjurk\HelloPost\Model\ResourceModel\Post');
 	}
 
 	public function getIdentities()

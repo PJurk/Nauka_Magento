@@ -318,7 +318,7 @@ return [
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
         'Pjurk_HelloPost' => 1,
-        'Pjurk_TestComponent' => 1,
+        'Pjurk_TestComponent' => 0,
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,

@@ -1,10 +1,8 @@
 <?php
-
-
 namespace Pjurk\HelloPost\ViewModel;
 
 
-class HelloPost
+class HelloPost implements \Magento\Framework\View\Element\Block\ArgumentInterface
 {
 
 }

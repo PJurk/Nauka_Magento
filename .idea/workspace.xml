@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad6625e7-05d3-4f45-b601-c8d7232f508a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Nauka_Magento.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_1.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_10.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_2.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_3.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_4.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_5.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_6.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_7.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_8.ibt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/#innodb_temp/temp_9.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/Model/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/Model/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/Model/ResourceModel/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/Model/ResourceModel/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/etc/db_schema.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/etc/db_schema.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/code/Pjurk/HelloPost/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/code/Pjurk/TestComponent/view/frontend/layout/hello_index_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/code/Pjurk/TestComponent/view/frontend/layout/hello_index_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/code/Pjurk/TestComponent/view/frontend/templates/test.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/code/Pjurk/TestComponent/view/frontend/templates/test.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/db/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/#ib_16384_1.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/db/#ib_16384_1.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/auto.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/db/auto.cnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000003" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000004" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000004" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000005" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000005" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000006" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000006" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000007" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000007" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000008" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000008" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000009" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000009" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000010" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000010" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000011" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000011" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.000012" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.000012" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/db/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/db/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/db/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/ib_logfile1" beforeDir="false" afterPath="$PROJECT_DIR$/db/ib_logfile1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/db/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalog_category_product_index_store1.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalog_category_product_index_store1.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalog_category_product_index_store1_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalog_category_product_index_store1_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalog_product_index_eav.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalog_product_index_eav.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalog_product_index_eav_decimal.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalog_product_index_eav_decimal.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalog_product_index_eav_decimal_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalog_product_index_eav_decimal_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalog_product_index_eav_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalog_product_index_eav_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalog_product_index_price.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalog_product_index_price.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalog_product_index_price_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalog_product_index_price_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/cataloginventory_stock_status.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/cataloginventory_stock_status.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/cataloginventory_stock_status_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/cataloginventory_stock_status_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalogrule_group_website.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalogrule_group_website.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalogrule_product.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalogrule_product.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/catalogrule_product_price.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/catalogrule_product_price.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/customer_grid_flat.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/customer_grid_flat.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/design_config_grid_flat.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/design_config_grid_flat.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_1.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_1.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_2.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_2.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_3.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_3.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_4.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_4.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_5.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_5.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_6.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_0000000000000afc_index_6.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_being_deleted.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_being_deleted.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_being_deleted_cache.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_being_deleted_cache.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_config.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_config.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_deleted.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_deleted.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000825_deleted_cache.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000825_deleted_cache.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_1.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_1.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_2.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_2.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_3.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_3.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_4.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_4.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_5.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_5.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_6.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_0000000000000b11_index_6.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_being_deleted.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_being_deleted.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_being_deleted_cache.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_being_deleted_cache.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_config.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_config.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_deleted.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_deleted.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/fts_0000000000000831_deleted_cache.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/fts_0000000000000831_deleted_cache.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/magento/pjurk_hello_post.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/magento/pjurk_hello_post.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/db/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/db/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/db/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Ubuntu 20.04" />
+  <component name="ProjectId" id="1iGk4Lx8CH8iyMb5rGyJo8UMR89" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Script.Test.php">
+    <configuration name="Test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/app/code/Pjurk/TestComponent/Controller/Index/Test.php">
+      <CommandLine workingDirectory="$PROJECT_DIR$/app">
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="Ubuntu 20.04" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.Magento: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="Magento" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.Magento: Compose Deployment" />
+        <item itemvalue="PHP Script.Test.php" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad6625e7-05d3-4f45-b601-c8d7232f508a" name="Default Changelist" comment="" />
+      <created>1601541124095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601541124095</updated>
+      <workItem from="1601541125219" duration="4382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="877" y="173" key="#CLI_Interpreters" timestamp="1601545079914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="877" y="173" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1601545079914" />
+    <state x="586" y="198" key="#Inspections" timestamp="1601542738228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601542738228" />
+    <state x="715" y="344" key="#Notifications" timestamp="1601541163891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1601541163891" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601545287787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601545287787" />
+    <state width="1340" height="328" key="GridCell.Tab.0.bottom" timestamp="1601546553485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601546553485" />
+    <state width="1340" height="328" key="GridCell.Tab.0.center" timestamp="1601546553485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601546553485" />
+    <state width="1340" height="328" key="GridCell.Tab.0.left" timestamp="1601546553484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601546553484" />
+    <state width="1340" height="328" key="GridCell.Tab.0.right" timestamp="1601546553485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601546553485" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1601546553486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601546553486" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center" timestamp="1601546553486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601546553486" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left" timestamp="1601546553486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601546553486" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right" timestamp="1601546553486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601546553486" />
+    <state x="578" y="222" key="RollbackChangesDialog" timestamp="1601541581758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601541581758" />
+    <state x="469" y="167" key="SettingsEditor" timestamp="1601545188894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="469" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601545188894" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601541521317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601541521317" />
+    <state x="1108" y="384" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1601544921942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1108" y="384" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1040@0.0.1920.1040" timestamp="1601544921942" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/app/code/Pjurk/TestComponent/Controller/Index/Test.php</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
