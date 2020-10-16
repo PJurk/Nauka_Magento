@@ -4,7 +4,7 @@
     <referenceContainer name="content">
         <block name="post_post_index" template="Pjurk_HelloPost::test.phtml">
             <arguments>
-                <argument name="view_model" xsi:type="object">Pjurk\HelloPost\ViewModel\HelloPost</argument>
+                <argument name="hello_post" xsi:type="object">Pjurk\HelloPost\ViewModel\HelloPost</argument>
             </arguments>
         </block>
     </referenceContainer>

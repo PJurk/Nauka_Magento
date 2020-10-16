@@ -35,12 +35,6 @@ class Index implements HttpGetActionInterface
     {
         $post = $this->postFactory->create();
         $collection = $post->getCollection();
-        foreach($collection as $item){
-            echo "<pre>";
-            print_r($item->getData());
-            echo "</pre>";
-        }
-        exit();
         return $this->pageFactory->create();
     }
 }
