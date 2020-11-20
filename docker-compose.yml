@@ -49,6 +49,13 @@ services:
       - "9300:9300"
     environment:
       - "discovery.type=single-node"
+
+lhserver:
+    image: patrickhulce/lhci-server
+    ports:
+      - '9001:9001'
+    volumes:
+      - lhci-data:/data
   #chrome:
   #  image: selenium/standalone-chrome:3.141.59
   #  container_name: chrome
@@ -68,5 +75,6 @@ services:
   #  volumes:
   #    - magento-tests:/app/allure-results
 
-# volumes:
+volumes:
+  lhci-data:
   #magento-tests:
