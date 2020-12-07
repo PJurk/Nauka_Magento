@@ -29,3 +29,5 @@ then
 else
     docker-compose up -d
 fi
+
+

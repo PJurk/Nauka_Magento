@@ -50,7 +50,7 @@ services:
     environment:
       - "discovery.type=single-node"
 
-lhserver:
+  lhserver:
     image: patrickhulce/lhci-server
     ports:
       - '9001:9001'
