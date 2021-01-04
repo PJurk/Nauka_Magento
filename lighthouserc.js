@@ -2,17 +2,18 @@ module.exports = {
     ci: {
       upload: {
         target: 'lhci',
-        token: '4f2df83c-7429-4e00-92b9-1168308370bd',
-        serverBaseUrl: 'http://magento.test.com:9001',
+        token: 'e564e882-f2e9-42e4-bf56-00b52dce59c1',
+        serverBaseUrl: 'localhost:9001',
         headful: false
       },
       collect: {
           additive: false,
           url: [
-              'http://magento.test.com/',
-              'http://magento.test.com/index.php/women'
+              'localhost',
+              'localhost/index.php/women'
           ],
-          numberOfRuns: 5
+          numberOfRuns: 3,
+          startServerCommand: 'docker-compose up -d --build',
       },
     //   assert: {
     //       preset: "lighthouse:recommended",

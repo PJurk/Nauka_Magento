@@ -55,7 +55,7 @@ services:
     ports:
       - '9001:9001'
     volumes:
-      - lhci-data:/data
+      - ./lhci-data:/data
   #chrome:
   #  image: selenium/standalone-chrome:3.141.59
   #  container_name: chrome
