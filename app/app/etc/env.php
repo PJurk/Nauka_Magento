@@ -23,6 +23,10 @@ return [
                 'active' => '1',
                 'driver_options' => [
                     1014 => false
+                ],
+                'profiler' => [
+                    'class' => '\\Magento\\Framework\\DB\\Profiler',
+                    'enabled' => true
                 ]
             ]
         ]
@@ -66,7 +70,7 @@ return [
         'customer_notification' => 1,
         'config_integration' => 1,
         'config_integration_api' => 1,
-        'full_page' => 1,
+        'full_page' => 0,
         'config_webservice' => 1,
         'translate' => 1,
         'vertex' => 1
