@@ -321,6 +321,7 @@ return [
         'Mgt_DeveloperToolbar' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
+        'Pjurk_CustomerAvatar' => 1,
         'Pjurk_HelloPost' => 1,
         'Pjurk_TestComponent' => 0,
         'Temando_ShippingRemover' => 1,
