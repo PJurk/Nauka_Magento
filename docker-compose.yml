@@ -6,7 +6,7 @@ services:
     image: pjurk/magento2-app
     tty: true
     environment: 
-      XDEBUG_CONFIG: "client_host=172.29.33.64" #hostname -I address
+      XDEBUG_CONFIG: "client_host=172.23.100.254" #hostname -I address
     ports:
       - "80:80"
     links:

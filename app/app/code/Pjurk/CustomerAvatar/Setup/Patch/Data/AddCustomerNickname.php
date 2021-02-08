@@ -1,5 +1,5 @@
 <?php
-namespace Pjurk\CustomerAvatar\Setup\Data\Patch;
+namespace Pjurk\CustomerAvatar\Setup\Patch\Data;
 
 use Magento\Framework\Setup\Patch\DataPatchInterface;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
@@ -19,7 +19,7 @@ class AddCustomerNickname implements DataPatchInterface
     private $customerSetupFactory;
 
     /**
-     * @var Magento\Eav\Api\AttributeRepository
+     * @var \Magento\Eav\Api\AttributeRepository
      */
     private $attributeRepository;
 
@@ -31,7 +31,7 @@ class AddCustomerNickname implements DataPatchInterface
     public function __construct(
         ModuleDataSetupInterface $moduleSetup,
         CustomerSetupFactory $customerFactory,
-        \Magento\Eav\Api\AttributeRepository $attributeRepository
+        \Magento\Eav\Api\AttributeRepositoryInterface $attributeRepository
     ) {
         $this->moduleDataSetup = $moduleSetup;
         $this->customerSetupFactory = $customerFactory;
@@ -57,36 +57,24 @@ class AddCustomerNickname implements DataPatchInterface
             'profile_image',
             [
                 'type' => 'text',
-                'label' => 'Customer File/Image',
+                'label' => 'Customer Avatar',
                 'input' => 'file',
                 'source' => '',
                 'required' => false,
                 'visible' => true,
                 'position' => 200,
                 'system' => false,
-                'backend' => ''
+                'backend' => '',
+                'is_used_in_grid' => 1,
+                'is_visible_in_grid' => 1
             ]
         );
-
-        $attribute = $customerSetup->getEavConfig()
-            ->getAttribute(\Magento\Customer\Model\Customer::ENTITY, 'profile_image')
-            ->addData(
-                ['used_in_forms' => [
-                    'adminhtml_customer',
-                    'adminhtml_checkout',
-                    'customer_account_create',
-                    'customer_account_edit'
-                    ]
-                ]
-            );
-        
-        $this->attributeRepository->save($attribute);
     }
 
     public static function getDependencies()
     {
         return [
-            UpdateIdentifierCustomerAttributesVisibility::class,
+            \Magento\Customer\Setup\Patch\Data\UpdateIdentifierCustomerAttributesVisibility::class,
         ];
     }
 }
